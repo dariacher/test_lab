@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+  ConsoleApplication1.vcxproj -> C:\Users\user\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

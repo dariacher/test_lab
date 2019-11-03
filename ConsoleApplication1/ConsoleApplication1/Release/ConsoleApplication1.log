@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(226): warning C4838: преобразование из "int" в "const size_t" требует сужающего преобразования
+  Создание кода
+  0 of 100 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> C:\Users\user\source\repos\ConsoleApplication1\Release\ConsoleApplication1.exe

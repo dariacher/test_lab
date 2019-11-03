@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ clGetPlatformIDs в функции main
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ clGetPlatformInfo в функции main
+C:\Users\user\Desktop\OCL\OpenCL.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\user\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
